@@ -1,0 +1,41 @@
+C:\Users\anate\OneDrive\Masaüstü\BioMatrix Test\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\anate\OneDrive\Masaüstü\BioMatrix Test\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\anate\OneDrive\Masaüstü\BioMatrix Test\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\anate\OneDrive\Masaüstü\BioMatrix Test\BioMatrix\BioMetrixCore\obj\Debug\ZKTecoDoorSystem.csproj.AssemblyReference.cache
+C:\Users\anate\OneDrive\Masaüstü\BioMatrix Test\BioMatrix\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\anate\OneDrive\Masaüstü\BioMatrix Test\BioMatrix\BioMetrixCore\obj\Debug\ZKTecoDoorSystem.csproj.ResolveComReference.cache
+C:\Users\anate\OneDrive\Masaüstü\BioMatrix Test\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\anate\OneDrive\Masaüstü\BioMatrix Test\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\anate\OneDrive\Masaüstü\BioMatrix Test\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\anate\OneDrive\Masaüstü\BioMatrix Test\BioMatrix\BioMetrixCore\obj\Debug\ZKTecoDoorSystem.csproj.GenerateResource.cache
+C:\Users\anate\OneDrive\Masaüstü\BioMatrix Test\BioMatrix\BioMetrixCore\obj\Debug\ZKTecoDoorSystem.csproj.CoreCompileInputs.cache
+C:\Users\anate\OneDrive\Masaüstü\BioMatrix Test\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\anate\OneDrive\Masaüstü\BioMatrix Test\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\obj\Debug\ZKTecoDoorSystem.csproj.AssemblyReference.cache
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\obj\Debug\ZKTecoDoorSystem.csproj.ResolveComReference.cache
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\obj\Debug\ZKTecoDoorSystem.csproj.GenerateResource.cache
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\obj\Debug\ZKTecoDoorSystem.csproj.CoreCompileInputs.cache
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe.manifest
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.application
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.exe.manifest
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.application
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\bin\Debug\System.Buffers.dll
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\bin\Debug\System.Memory.dll
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\bin\Debug\System.Buffers.xml
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\bin\Debug\System.Memory.xml
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\anate\OneDrive\Masaüstü\ZKTecoDoorSystem\BioMatrix\BioMetrixCore\obj\Debug\ZKTecoDo.5CE8A90B.Up2Date
